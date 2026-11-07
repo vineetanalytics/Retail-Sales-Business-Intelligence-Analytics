@@ -1,5 +1,7 @@
 # Retail Sales & Business Intelligence Analytics System
 
+![Retail Analytics Dashboard](retail-analytics-thumbnail.png)
+
 ## 📌 Project Overview
 
 Retail Sales & Business Intelligence Analytics System is a data analytics project focused on analyzing retail transaction data and generating business insights using **MySQL, SQL, and Power BI**.
