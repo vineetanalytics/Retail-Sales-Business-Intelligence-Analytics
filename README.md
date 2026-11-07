@@ -1,6 +1,6 @@
 # Retail Sales & Business Intelligence Analytics System
 
-![Retail Analytics Dashboard](retail-analytics-thumbnail.png)
+![Retail Analytics Dashboard](Retail analytics LinkedIn thumbnail.png)
 
 ## 📌 Project Overview
 
